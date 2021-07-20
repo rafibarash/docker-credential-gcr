@@ -43,7 +43,7 @@ const (
 	// MinorVersion is the credential helper's minor version number.
 	MinorVersion = 0
 	// PatchVersion is the credential helper's patch version number.
-	PatchVersion = 4
+	PatchVersion = 6
 )
 
 // DefaultGCRRegistries contains the list of default registries to authenticate for.
